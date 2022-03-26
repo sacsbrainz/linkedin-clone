@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e/project/6338ae6a-aed4-429e-b93b-a88aba58b08d.svg)](https://wakatime.com/badge/user/7d9fb201-77dd-4cbf-9bf6-d51a814ad51e/project/6338ae6a-aed4-429e-b93b-a88aba58b08d)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
